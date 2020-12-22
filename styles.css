@@ -21,7 +21,17 @@ p {
     font-size: 1.25em;
 }
 
+figcaption {
+    font-size: 1.6em;
+}
+
 .responsive {
     width: 80%;
     height: auto;
-  }
+}
+
+.culprits {
+    padding-left: .5em;
+    padding-right: .5em;
+    padding-bottom: .5em;
+}
